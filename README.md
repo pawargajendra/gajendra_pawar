@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gajendra Pawar</h1>
-<h3 align="center">A passionate Bio-Statistician and Statistical Programmer from India</h3>
+<h3 align="center">A passionate Bio-Statistician and Statistical Programmer.</h3>
+<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vv6ZemZhLv3JAIR76LnX2&ust=1719849983290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICyrOLag4cDFQAAAAAdAAAAABAE">
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vv6ZemZhLv3JAIR76LnX2&ust=1719849983290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICyrOLag4cDFQAAAAAdAAAAABAE.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawargajendra" alt="pawargajendra" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawargajendra&label=Profile%20views&color=0e75b6&style=flat" alt="pawargajendra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_gajendrapawar" target="blank"><img src="https://img.shields.io/twitter/follow/_gajendrapawar?logo=twitter&style=for-the-badge" alt="_gajendrapawar" /></a> </p>
 
