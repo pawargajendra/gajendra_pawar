@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gajendra Pawar</h1>
 <h3 align="center">A passionate Bio-Statistician and Statistical Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FBiostatistics-Consortium-100063643704604%2F&psig=AOvVaw2YmdiMhVe0XO2zjsNq403D&ust=1719848074223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjZ7sDTg4cDFQAAAAAdAAAAABAb">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vv6ZemZhLv3JAIR76LnX2&ust=1719849983290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICyrOLag4cDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawargajendra" alt="pawargajendra" /></a> </p>
 
